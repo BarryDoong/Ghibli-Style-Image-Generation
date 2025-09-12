@@ -8,11 +8,11 @@ It applies deep learning models to transform input photos or sketches into image
 ## 📂 Project Structure
 ```
 Ghibli_Style_Image_Generation/
-├── v1/               # First prototype experiments
-├── v2/               # Improved version with refined models
-├── presentation.pptx # Project presentation slides
-├── report.pdf        # Final written report
-└── 彥璋期末實驗報告.pdf  # Team member’s final report
+├── images/                                                  # training_data
+├── captions.txt                                             # training_data
+├── LoRA_CFG_DDIM_Training_and_Inference.ipynb               # First prototype experiments
+├── 第11組＿董少鈞.pdf                                          # Project presentation slides
+└── 第十一組＿董少鈞.pdf                                         # Final written report
 ```
 
 ---
