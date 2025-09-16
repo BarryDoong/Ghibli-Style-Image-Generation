@@ -66,13 +66,6 @@ pip install -r requirements.txt
 
 ---
 
-## 👥 Team
-- Barry Doong  
-- Shao Jyuns  
-- [Other contributors if any]
-
----
-
 ## 📜 License
 This project is for **educational and research purposes only**.  
 Studio Ghibli’s art style is copyright of **Studio Ghibli Co., Ltd.**
